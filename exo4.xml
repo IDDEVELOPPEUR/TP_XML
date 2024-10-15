@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<armoir>
+    
+    <saison nom="ete">
+        <vetement type="robe">
+            <couleur>rose</couleur>
+        </vetement>
+
+        <vetement type="robe">
+            <couleur>verte</couleur>
+        </vetement>
+        <vetement type="pantallon">
+            <couleur>blanc</couleur>
+        </vetement>
+    </saison>
+
+    <saison nom="hiver">
+        <vetement type="robe">
+            <couleur>bleu</couleur>
+        </vetement>
+        <vetement type="pantallon">
+            <couleur>beige</couleur>
+        </vetement>
+    </saison>
+
+</armoir>

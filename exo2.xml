@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<matieres>
+    <matiere>ARABE
+        
+        <enseignant>Mme Fatima
+            
+            <eleves>161</eleves>
+        </enseignant>
+        <enseignant>M. Ali
+                
+            <eleves>132</eleves>
+        </enseignant>
+    </matiere>
+    
+    <matiere>MATHEMATIQUES
+        
+        <enseignant>Mlle Nora
+            
+            <eleves>143</eleves>
+        </enseignant>
+    </matiere>
+</matieres>

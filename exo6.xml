@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<Bibliothequemusique>
+    <artiste> YOUSSOU NDOUR
+        <oeuvre>
+            <titre>BIRIMA</titre>
+            <genre>MBALAX</genre>
+            <anneeSortie>2004</anneeSortie>
+            <album>BERCY 2004</album>
+        </oeuvre>
+    </artiste>
+
+    <artiste> Baaba Maal
+        <oeuvre>
+            <titre>Yenndoo</titre>
+            <genre>Musique world</genre>
+            <anneeSortie>1996</anneeSortie>
+            <album>Firin' in Fouta</album>
+        </oeuvre>
+    </artiste>
+
+    <artiste> Ismaël Lô
+        <oeuvre>
+            <titre>Tajabone  </titre>
+            <genre>Musique traditionnelle sénégalaise (Malax)</genre>
+            <anneeSortie>1986</anneeSortie>
+            <album>Natt</album>
+        </oeuvre>
+    </artiste>
+</Bibliothequemusique>

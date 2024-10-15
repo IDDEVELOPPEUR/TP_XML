@@ -1,0 +1,42 @@
+version 1
+
+
+
+			exercice de xml
+.enseignante		
+	.nom: Mme Martin
+		-matière: français
+		-élèves:161
+
+
+
+
+.enseignante
+	.nom: Mlle Durand
+		-matière: mathématiques
+		-élèves:143
+		
+
+
+
+
+.enseignant
+	.nom: M. Dupont
+		-matière: français
+		-élèves:132
+	
+
+
+
+version 2
+
+
+-matière: français
+ 	enseignant: M. Dupond
+		élèves:132
+
+	enseignant: Mme Martin
+		élèves:161
+-matière: mathématiques
+ 	enseignant: Mlle Durand
+		élèves:143
